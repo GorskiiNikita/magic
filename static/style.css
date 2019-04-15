@@ -1,0 +1,54 @@
+body {
+	font-family: Arial;
+	font-size: 18px;
+	min-height: 1000px;
+}
+
+
+
+.blackQuad {
+	width: 150px;
+	height: 150px;
+	background: black;
+	margin: 0 auto;
+	margin-bottom: 50px;
+	color: white;
+	font-size: 80px;
+	text-align: center;
+	line-height: 130px;
+}
+
+
+table {
+	margin: 50px auto;
+	border-spacing: 10px;
+}
+
+
+td {
+	height: 40px;
+	width: 40px;
+}
+
+.num {
+	text-align: right;
+}
+
+
+.symbol {
+	background-color: black;
+	color: white;
+	text-align: center;
+	font-size: 24px;
+}
+
+.repeat {
+	padding: 15px 0;
+	width: 150px;
+	cursor: pointer;
+	text-align: center;
+	margin: 0 auto;
+	background-color: lightgrey;
+	margin-bottom: 100px;
+}
+
